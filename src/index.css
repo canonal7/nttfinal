@@ -5,9 +5,77 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #E5E5E5;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar {
+  width: 1440px;
+  height: 76.64px;
+  background: #1EA4CE;
+}
+.navbar .basketBg{
+  height: 76.64px;
+  width: 129px;
+  background: #147594;
+  margin-left: 1207px;
+
+}
+
+.prodImg
+{
+  width:92px;
+  height:92px;
+}
+.total {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.price{
+  font-family: Open Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0px;
+
+  font-family: Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0px;
+
+  color: #1EA4CE;
+
+}
+
+.prodName{
+  font-family: Open Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0px;
+
+  color: #C4C4C4;
+}
+
+.addButton{
+  height: 22.000001907348633px;
+  width: 124px;
+  border-radius: 2px;
+
+  background: #1EA4CE;
+
+}
+Grid{
+  justify-items: center;
+
+}
+
+
